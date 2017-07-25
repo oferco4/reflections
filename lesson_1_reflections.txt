@@ -1,0 +1,34 @@
+q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+a: It removes identical rows so it makes it a lot easyer to disdict differences between few rows
+
+q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+a: You can see old bugs and fixes, so as comment for each fix.
+   You can also try prevent from doing the same mistakes
+   You also can go back to previous version if you did a big mistake and you are no sure how to fix it
+
+q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+   vs having versions automatically saved, like Google Docs does?
+a: pros - logic, flexiable, no waste
+   cons - you can forget, different people have different approach
+
+q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
+   like Google Docs, treat each file separately?
+a: logic change in a code project usualy involves several files while documents usually involves one file.
+
+q: How can you use the commands git log and git diff to view the history of files?
+a: use the git log to see history of changes and comments for each change.
+   you can also see dates and time so you can go to the specific time you thinks something bad has happend.
+   The you can use git diff to see changes and or eather aprrove them and continue looking for problematic change,
+   or detect the problematic change.
+   
+q: How might using version control make you more confident to make changes that could break something?
+a: Using version control makes me more confident to make changes that could break something
+   by that I know that if I will brake anything important and it would be hard for 
+   me to find the bug , I could always checkout to the previous version which the bug will disapear.
+
+q: Now that you have your workspace set up, what do you want to try using Git for?
+a: start developping android projects
+
+
+
+
