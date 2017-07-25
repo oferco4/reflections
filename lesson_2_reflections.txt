@@ -1,0 +1,8 @@
+q: What happens when you initialize a repository? Why do you need to do it?
+a: New headen file created represent the current directory as the working directory, save the current status as the head and start following changes.
+
+
+q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+a: The working directory represent the current state of my directory and can check for changes between the git head repository and my directory.
+   The staging area represent set of new files with one logical subject which I want to add to the git repository.
+
