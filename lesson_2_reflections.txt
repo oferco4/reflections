@@ -6,3 +6,5 @@ q: How is the staging area different from the working directory and the reposito
 a: The working directory represent the current state of my directory and can check for changes between the git head repository and my directory.
    The staging area represent set of new files with one logical subject which I want to add to the git repository.
 
+q: How can you use the staging area to make sure you have one commit per logical change?
+a: use diff --staged to take a loook at all the changes you are about to commit.
